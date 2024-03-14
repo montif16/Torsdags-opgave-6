@@ -1,3 +1,5 @@
+package Task1;
+
 public class Flow {
    private int count = 0;
     public void methodA(String name){
